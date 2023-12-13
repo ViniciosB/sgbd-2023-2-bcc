@@ -4,7 +4,7 @@ A) (p * tam_ponteiro de bloco)+((p-1)*tam_valor_de_busca)+((p-1)*tam_pont_reg)<=
 23p<=512+10+7==p<=529/23==p<=23==p=23
 
 ----------------------------------------------------------------------------------------------
-B)0,69*p=15,87==>os nos em media tem 15 descendentes
+B) 0,69*p=15,87==>os nos em media tem 15 descendentes
 ----------------------------------------------------------------------------------------------
 C)
 | Nível | Nós  | Número Descendentes | N Entradas | Número Entradas Acumuladas |
