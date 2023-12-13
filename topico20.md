@@ -1,4 +1,4 @@
-A) (p * tam_ponteiro de bloco)+((p-1)*tam_valor_de_busca)+((p-1)*tam_pont_reg)<=512
+A) (p * tam_ptr_de_bloco)+((p-1)*tam_valor_de_busca)+((p-1)*tam_pont_reg)<=512
 
 6p+10p-10+7p-7<=512
 23p<=512+10+7==p<=529/23==p<=23==p=23
