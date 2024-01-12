@@ -5,4 +5,4 @@
 
 ![GRAFO SC](https://github.com/ViniciosB/sgbd-2023-2-bcc/blob/main/midia/UqohccMQIqEFgJpl%20(3).svg)
 
-![GRAFO SD](https://github.com/ViniciosB/sgbd-2023-2-bcc/blob/main/midia/UqohccMQIqEFgJpl%20(4).svg)
+![GRAFO SD](https://github.com/ViniciosB/sgbd-2023-2-bcc/blob/main/midia/UqohccMQIqEFgJpl(4).svg)
