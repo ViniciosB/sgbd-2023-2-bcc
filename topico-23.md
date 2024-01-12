@@ -4,7 +4,7 @@
 
 Sobre o estado final do banco de dados:
 
-O estado final dos escalonamentos não-seriais coincide com o estado final dos escalonamentos seriais? Nã0
+O estado final dos escalonamentos não-seriais coincide com o estado final dos escalonamentos seriais? Sim e Não
 
 
 
