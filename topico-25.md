@@ -10,7 +10,7 @@ GRAFO SB
 
 GRAFO SC
 
-![GRAFO SC](https://github.com/ViniciosB/sgbd-2023-2-bcc/blob/main/midia/UqohccMQIqEFgJpl%20(3).svg)
+![GRAFO SC](https://github.com/ViniciosB/sgbd-2023-2-bcc/blob/main/midia/SC.png)
 
 GRAFO SD
 
