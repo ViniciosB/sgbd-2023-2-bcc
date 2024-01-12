@@ -8,4 +8,4 @@ O estado final dos escalonamentos não-seriais coincide com o estado final dos e
 
 
 
-As não-coincidências ocorrem em escalonamentos não seriais em que há interferências indevidas entre as transações?
+As não-coincidências ocorrem em escalonamentos não seriais em que há interferências indevidas entre as transações? Sim
